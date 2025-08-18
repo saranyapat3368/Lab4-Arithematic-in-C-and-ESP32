@@ -177,22 +177,39 @@ I (21029) main_task: Returned from app_main()
 
 
 ```
-I (18402) TOYS_MATH: หากน้องอยากแจกของเล่นให้เพื่อน 10 คน คนละ 2 ชิ้น 
-I (18402) TOYS_MATH: น้องต้องมี 20 ตัว
-I (18402) TOYS_MATH: ถ้ามี 15 ชิ้น จะขาดอีก 5 
-I (18402) TOYS_MATH:
-I (18402) TOYS_MATH: 
-I (18402) TOYS_MATH: 
-I (18402) TOYS_MATH: 📚 สิ่งที่เรียนรู้:
-I (18402) TOYS_MATH:    1. การลบเลข (Subtraction): a - b = c
-I (18402) TOYS_MATH:    2. การตรวจสอบเงื่อนไข (if statement)
-I (18402) TOYS_MATH:    3. การจัดการกรณีพิเศษ (edge cases)
-I (18402) TOYS_MATH:    4. ความแตกต่างระหว่างการบวกและการลบ
-I (18402) TOYS_MATH:    5. การป้องกันผลลัพธ์ที่ไม่สมเหตุสมผล
-I (18402) TOYS_MATH:
-I (18402) TOYS_MATH: 🎉 จบโปรแกรมนับของเล่นของน้อง!
-I (18402) TOYS_MATH: 📖 อ่านต่อในโปรเจคถัดไป: 03_multiplication_candies
-I (20402) main_task: Returned from app_main()
+I (17581) TOYS_MATH: 🧮 ขั้นตอนการคิด:
+I (17581) TOYS_MATH:    8 - 3 = 5 ชิ้น
+I (17581) TOYS_MATH:
+I (17581) TOYS_MATH: ✅ คำตอบ:
+I (17581) TOYS_MATH:    น้องเหลือของเล่น 5 ชิ้น
+I (17581) TOYS_MATH:
+I (17581) TOYS_MATH: 🎨 ภาพประกอบ:
+I (17581) TOYS_MATH:    ของเล่นเดิม: 🧸🚗🎲🧩🎮🧸🚁🎯 (8 ชิ้น)
+I (17581) TOYS_MATH:    แจกให้เพื่อน: 🧸🚗🎲 (3 ชิ้น)
+I (17581) TOYS_MATH:    เหลืออยู่:   🧩🎮🧸🚁🎯 (5 ชิ้น)
+I (17581) TOYS_MATH:
+I (17581) TOYS_MATH: 💡 ตัวอย่างเพิ่มเติม:
+I (17581) TOYS_MATH:    1. มี 15 ชิ้น แจก 7 ชิ้น → เหลือ 8 ชิ้น
+I (17581) TOYS_MATH:    2. มี 5 ชิ้น แจก 5 ชิ้น → เหลือ 0 ชิ้น
+I (17581) TOYS_MATH:
+I (17581) TOYS_MATH: 🔄 เปรียบเทียบ:
+I (17581) TOYS_MATH:    บวก: เพิ่มจำนวน (4 + 2 = 6)
+I (17581) TOYS_MATH:    ลบ: ลดจำนวน (8 - 3 = 5)
+I (17581) TOYS_MATH: 
+I (17581) TOYS_MATH: 📝 แบบฝึกหัดที่ 4:
+I (17581) TOYS_MATH:    ถ้าอยากแจกของเล่นให้เพื่อน 10 คน คนละ 2 ชิ้น
+I (17591) TOYS_MATH:    รวมต้องมีของเล่น = 10 × 2 = 20 ชิ้น
+I (17591) TOYS_MATH:    ❌ น้องมีแค่ 8 ชิ้น ขาดอีก 12 ชิ้น
+I (17591) TOYS_MATH:
+I (17591) TOYS_MATH: 📚 สิ่งที่เรียนรู้:
+I (17591) TOYS_MATH:    1. การลบเลข (Subtraction)
+I (17591) TOYS_MATH:    2. การตรวจสอบเงื่อนไข
+I (17591) TOYS_MATH:    3. การคูณเพื่อหาจำนวนรวม
+I (17591) TOYS_MATH:    4. ความสัมพันธ์ระหว่างการลบและบวก
+I (17591) TOYS_MATH:
+I (17591) TOYS_MATH: 🎉 จบโปรแกรมนับของเล่นของน้อง!
+I (17591) TOYS_MATH: 📖 อ่านต่อในโปรเจคถัดไป: 03_multiplication_candies
+I (19591) main_task: Returned from app_main()
 ```
 
 
